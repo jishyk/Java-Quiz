@@ -12,5 +12,5 @@ The Highscores.html is connected with the Logic.js to allow this highscores and 
 With the Style.css sheet I was able to implement colors, and borders along with certian shapes of the questions, and if you hover over a answer or the start, and save button it will glow. 
 ### ScreenShot
 
-![Alt text](<../Screenshot 2023-07-13 at 11.33.52 PM.png>)
+![Alt text](<Screenshot 2023-07-13 at 11.33.52 PM.png>)
 
