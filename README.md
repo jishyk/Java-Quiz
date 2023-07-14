@@ -13,5 +13,6 @@ With the Style.css sheet I was able to implement colors, and borders along with 
 ### ScreenShots
 
 ![Alt text](<Screenshot 2023-07-13 at 11.32.56 PM.png>)
+
 ![Alt text](<../Screenshot 2023-07-13 at 11.33.52 PM.png>)
 
