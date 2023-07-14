@@ -10,9 +10,7 @@ Once the score is saved it will go to the HighScores.html which will then save i
 Your able to ether reset the highscores list, or go back to the start of the quiz and take it again. 
 The Highscores.html is connected with the Logic.js to allow this highscores and save to be implemented. 
 With the Style.css sheet I was able to implement colors, and borders along with certian shapes of the questions, and if you hover over a answer or the start, and save button it will glow. 
-### ScreenShots
-
-![Alt text](<Screenshot 2023-07-13 at 11.32.56 PM.png>)
+### ScreenShot
 
 ![Alt text](<../Screenshot 2023-07-13 at 11.33.52 PM.png>)
 
